@@ -47,7 +47,7 @@ A simple and interactive **Web application** has been developed to provide a use
 
 ECommerce_Customer_Churn_Prediction-ML_Model/
 
-* **Heart_Final.ipynb       # Google colab with model training**
+* **E_Commerce_Customer_Churn_Prediction.ipynb       # Google colab with model training**
 * **app.py          # HTML file**
 * **requirements.txt        # Dependencies**
 * **README.md               # Project documentation**
@@ -58,22 +58,15 @@ ECommerce_Customer_Churn_Prediction-ML_Model/
 
 ## ⚡ How to Run the Project
 
-1. Clone the repository:
-
-   
-   git clone https://github.com/Shalini6654/Heart-Disease-Detection-ML_Model.git
-   cd Heart-Disease-Detection-ML_Model
-   
-
-2. Install dependencies:
+1. Install dependencies:
 
    
    pip install -r requirements.txt
    
 
-3. Run the Streamlit app:
+2. Run the Streamlit app:
 
-   streamlit run app.py
+   python app.py
    
 
 ---
