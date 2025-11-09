@@ -1,6 +1,7 @@
 # ❤️ E-Commerce Customer Churn Prediction 
 
-<img width="1829" height="864" alt="Screenshot 2025-09-27 154716" src="https://github.com/user-attachments/assets/766a9d80-1585-480b-801b-188283b5f043" />
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/79ce613b-955e-480c-901a-bcaa5ccc9e62" />
+
 
 ---
 
