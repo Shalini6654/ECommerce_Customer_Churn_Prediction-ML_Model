@@ -1,4 +1,4 @@
-# ❤️ E-Commerce Customer Churn Prediction 
+#  E-Commerce Customer Churn Prediction 
 
 <img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/79ce613b-955e-480c-901a-bcaa5ccc9e62" />
 
